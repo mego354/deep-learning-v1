@@ -17,7 +17,7 @@ from tensorflow.keras.utils import to_categorical
 from skimage import io  # Using skimage to read images
 
 # Set the directory containing the data
-data_dir = 'C:/Users/mahmo/Downloads/archive/LIDC-IDRI-slices/'  # Update this path to your archive folder
+data_dir = 'C:/Users/mahmo/Downloads/archive/LIDC-IDRI-slices/'  # Update this path to your LIDC-IDRI-slices folder
 
 def get_subfolders(directory):
     """Retrieve a list of subfolders within a given directory."""
