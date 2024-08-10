@@ -1,7 +1,7 @@
 import os
 
 # Set the directory containing the data
-data_dir = 'C:/Users/mahmo/Downloads/archive/LIDC-IDRI-slices/'  # Update this path to your archive folder
+data_dir = 'C:/Users/mahmo/Downloads/archive/LIDC-IDRI-slices/'  # Update this path to your LIDC-IDRI-slices folder
 
 
 def get_subfolders(directory):
